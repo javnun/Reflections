@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 git adds new files that contain metadata from files in the folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the only diffrence is the changes in the file and the commit
